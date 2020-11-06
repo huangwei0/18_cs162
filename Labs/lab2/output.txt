@@ -1,0 +1,21 @@
+
+Sort by ID
+
+ID  199822007 NAME:  Josh Lyman  	 Major:Law
+ID  199922004 NAME:  Sam Seaborn  	 Major:Law
+ID  199922006 NAME:  Toby Ziegler  	 Major:Communications
+ID  199922007 NAME:  C.J. Cregg  	 Major:Political_Science
+ID  200722013 NAME:  Walter Bishop  	 Major:General_Sciences
+ID  200822013 NAME:  Olivia Dunham  	 Major:Criminal_Justice
+ID  200922015 NAME:  Leslie Knope  	 Major:Public_and_Environmental_Affairs
+
+Sort by last names
+
+ID  200722013 NAME:  Walter Bishop  	 Major:General_Sciences
+ID  199922007 NAME:  C.J. Cregg  	 Major:Political_Science
+ID  200822013 NAME:  Olivia Dunham  	 Major:Criminal_Justice
+ID  200922015 NAME:  Leslie Knope  	 Major:Public_and_Environmental_Affairs
+ID  199822007 NAME:  Josh Lyman  	 Major:Law
+ID  199922004 NAME:  Sam Seaborn  	 Major:Law
+ID  199922006 NAME:  Toby Ziegler  	 Major:Communications
+  total majors:  6
